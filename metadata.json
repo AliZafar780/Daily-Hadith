@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Daily Hadith Reminder",
+  "description": "An elegant web application that displays a new, insightful Hadith each day with a brief explanation, powered by the Gemini API. A source of daily reflection and wisdom.",
+  "requestFramePermissions": []
+}
